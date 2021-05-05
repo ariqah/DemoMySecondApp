@@ -12,7 +12,6 @@
         <activity android:name=".RegistrationApp"></activity>
         <activity android:name=".DemoMyLoginApp" />
         <activity android:name=".act_4a" />
-        <activity android:name=".act_3c" />
         <activity android:name=".act_3b" />
         <activity android:name=".act_3a" />
         <activity android:name=".act_2d" />
